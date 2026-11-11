@@ -186,5 +186,3 @@ When reporting a problem, describe what you were doing, what happened, and your 
 ## About this documentation
 
 **[cecon123/dearr.app](https://github.com/cecon123/dearr.app)** provides public product information and usage documentation for Dear; it does not contain users' letters. The content was checked against Dear's interface, guide and policies on **November 11, 2026**. Features can change; consult the linked website and policies for current information.
-
-Maintainers can read the [Google discoverability guide in Vietnamese](DISCOVERABILITY.md) for publication and indexing guidance.

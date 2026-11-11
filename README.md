@@ -188,5 +188,3 @@ Khi báo lỗi, hãy cho biết bạn đang làm gì, lỗi xảy ra như thế 
 ## Về tài liệu này
 
 Repository **[cecon123/dearr.app](https://github.com/cecon123/dearr.app)** cung cấp thông tin công khai về Dear và cách sử dụng website; không chứa thư của người dùng. Nội dung được đối chiếu với giao diện, hướng dẫn và chính sách của Dear ngày **11/11/2026**. Tính năng có thể thay đổi; hãy xem website và các chính sách được liên kết để biết thông tin hiện hành.
-
-Người duy trì có thể xem [hướng dẫn về khả năng được tìm thấy trên Google](DISCOVERABILITY.md) để cập nhật nội dung và theo dõi việc lập chỉ mục.
